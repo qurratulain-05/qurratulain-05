@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @qurratulain-05
-- 👀 I’m interested in crafting 
-- 🌱 I’m currently learning web and app development 
-- 📫 How to reach me? through Fiverr, GitHub 
+# Hi, I'm Ann 👋
 
-<!---
-qurratulain-05/qurratulain-05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **Web Designer & Developer** specializing in **WordPress, Elementor, and WooCommerce**. I build fast, responsive, and user-focused websites with a strong focus on clean design, performance, and functionality.
+
+- 💻 **WordPress · Elementor Pro · WooCommerce · HTML · CSS · JavaScript**
+- 📱 Exploring **Flutter & mobile app development**
+- 🎓 **BS Computer Science**, Virtual University of Pakistan
+- 🚀 Experienced in building and customizing websites for businesses and clients
+- 🌱 Continuously learning and expanding my skills in web and app development
+- 🤝 Open to **freelance projects, collaborations, and new opportunities**
+
+### Let's Connect
+
+I'm always interested in working on interesting web projects and collaborating with other developers and designers.
+
+- 📸 Instagram: [@your-username](https://instagram.com/your-username)
+- 💼 LinkedIn: [your-profile](https://linkedin.com/in/your-username)
