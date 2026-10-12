@@ -13,5 +13,5 @@ I'm a **Web Designer & Developer** specializing in **WordPress, Elementor, and W
 
 I'm always interested in working on interesting web projects and collaborating with other developers and designers.
 
-- 📸 Instagram: [@your-username](https://instagram.com/your-username)
-- 💼 LinkedIn: [your-profile](https://linkedin.com/in/your-username)
+- 📸 Instagram: [@ann_app_tech](https://www.instagram.com/ann_app_tech?xtok=MXY4Y2FlYzNydzJnbA%3D%3D)
+- 💼 LinkedIn: [Qurra Tul (AnnAppTech) Ain] (https://www.linkedin.com/in/qurra-tul-ain/)
